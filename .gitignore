@@ -4,3 +4,4 @@ taskflow
 compile_commands.json
 .cache
 .git
+.env
